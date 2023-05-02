@@ -21,7 +21,7 @@ mongoose
 // middleware
 app.use(cors(
     {
-        origin: ["http://localhost:3000", "https://treasurehunt-npui.onrender.com"]
+        origin: ["http://localhost:3000", "https://treasure-hunt-a3tj.onrender.com"]
     }
 ));
 app.use(morgan("dev"));
