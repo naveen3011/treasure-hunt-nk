@@ -110,7 +110,7 @@ export default function Que1() {
       </Button>
       <Fade in={open}>
         <div id="example-fade-text">
-          Read the text in the image and use decoder.
+          The answer is Naveen1
         </div>
       </Fade>        
          
