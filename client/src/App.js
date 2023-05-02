@@ -18,6 +18,7 @@ import Leaderboard from "./pages/user/Leaderboard"
 import PageNotFoundGIF from "./images/pnf.jpg";
 import About from "./pages/About";
 import Footer from "./components/nav/footer"
+import { HashRouter } from "react-router-dom";
 
 
 const PageNotFound = () => {
@@ -30,7 +31,7 @@ const PageNotFound = () => {
 export default function App(){
 
   return (
-    <BrowserRouter>
+    <HashRouter>
     <Menu />  
     <Toaster />
     
@@ -62,6 +63,6 @@ export default function App(){
       </Routes>
       <Footer/>
      
-    </BrowserRouter>
+    </HashRouter>
   )
 }
