@@ -1,7 +1,15 @@
 # Soft Skills Puzzle-eLitmus
-### Live on (https://treasure-hunt-a3tj.onrender.com)
 
-Welcome to the Soft Skills Puzzle, an interactive game designed to assess users' soft skills, such as attention to detail, perseverance, and curiosity. Users must solve a series of clues to progress through the game and reach the final treasure. The game is hosted on a cloud-based website and can be accessed from any internet-connected device.
+
+Welcome to the Soft Skills Puzzle, an interactive game designed to assess users' soft skills, such as attention to detail, perseverance, and curiosity. Users must solve a series of clues to progress through the game and reach the final treasure. The game is hosted on a cloud-based website and can be accessed from any internet-connected device.'
+### Live on (https://treasure-hunt-a3tj.onrender.com)
+ANSWER 1 -> Naveen1
+ANSWER 2 -> ThIS_I$~eyE
+ANSWER 3 -> G U L A B I A N K H E
+ANSWER 4 -> will-o'-the-wisps
+ANSWER 5 -> CORRETPARITY
+ANSWER 6 -> JOEYRGMGRGCBPB
+ANSWER 7 -> Elon Musk
 
 ## Tech Stack
 
