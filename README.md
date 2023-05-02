@@ -1,5 +1,5 @@
 # Soft Skills Puzzle-eLitmus
-### Live on (https://treasurehunt-npui.onrender.com/)
+### Live on (https://treasure-hunt-a3tj.onrender.com)
 
 Welcome to the Soft Skills Puzzle, an interactive game designed to assess users' soft skills, such as attention to detail, perseverance, and curiosity. Users must solve a series of clues to progress through the game and reach the final treasure. The game is hosted on a cloud-based website and can be accessed from any internet-connected device.
 
@@ -27,10 +27,10 @@ Our game includes the following features:
 
 ## Deployment
 
-Our game is deployed on a cloud-hosted website, such as GitHub.io or Netlify, to ensure accessibility and ease of use for users. To deploy the game locally, users will need to install Node.js and MongoDB, clone the repository, and run the commands "npm install" and "npm start" to start the server and access the game website at https://treasurehunt-npui.onrender.com/.
+Our game is deployed on a cloud-hosted website, such as GitHub.io or Netlify, to ensure accessibility and ease of use for users. To deploy the game locally, users will need to install Node.js and MongoDB, clone the repository, and run the commands "npm install" and "npm start" to start the server and access the game website at https://treasure-hunt-a3tj.onrender.com .
 
 ## Credits
 
-Our Soft Skills Puzzle was designed and created by Aryan Barsaiyan as a project for eLitmus. All clues and puzzles are original and not copied from the internet.
+Our Soft Skills Puzzle was designed and created by Naveen kushwaha as a project for eLitmus. All clues and puzzles are original and not copied from the internet.
 
 Thank you for checking out our project!
